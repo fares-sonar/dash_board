@@ -10,7 +10,7 @@ const Table = () => {
   ];
   return (
     <>
-      <table className="w-full text-center border-separate border-spacing-2">
+      <table className="w-full text-center border-separate border-spacing-[14px]">
         <thead>
           <tr>
             <th className="bg-[#0080ff] rounded-lg h-[40px] ">Products</th>
